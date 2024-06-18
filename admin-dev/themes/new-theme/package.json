@@ -18,7 +18,7 @@
     "dropzone": "^5.5.1",
     "eonasdan-bootstrap-datetimepicker": "^4.17.47",
     "jets": "0.11.0",
-    "jquery-ui-dist": "^1.12.1",
+    "jquery-ui-dist": "^1.13.2",
     "jwerty": "^0.3.2",
     "magnific-popup": "^1.1.0",
     "mobile-detect": "^1.4.3",
