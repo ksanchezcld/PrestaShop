@@ -16,7 +16,7 @@
     "bourbon": "^4.2.6",
     "compass": "^0.1.1",
     "dropzone": "^5.5.1",
-    "eonasdan-bootstrap-datetimepicker": "^4.17.47",
+    "eonasdan-bootstrap-datetimepicker": "^4.17.49",
     "jets": "0.11.0",
     "jquery-ui-dist": "^1.12.1",
     "jwerty": "^0.3.2",
